@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thetaPC aka Maria
+- 👋 Hi, I’m [@thetaPC](https://github.com/thetaPC) aka Maria
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Next.js and React
 - 💞️ I’m looking to collaborate on chat systems
