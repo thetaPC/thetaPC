@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @thetaPC
+- 👋 Hi, I’m @thetaPC aka Maria
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Next.js and React
 - 💞️ I’m looking to collaborate on chat systems
-- 📫 How to reach me: Twitter [@this__maria](https://twitter.com/this__maria)
+- 📫 How to reach me: Twitter [@this__maria](https://twitter.com/this__maria) / LinkedIn [Maria Loza](https://www.linkedin.com/in/maria-loza)
